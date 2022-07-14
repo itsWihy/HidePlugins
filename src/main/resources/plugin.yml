@@ -1,0 +1,7 @@
+name: HidePlugins
+version: '${project.version}'
+main: wihy.hideplugins.HidePlugins
+api-version: 1.17
+load: STARTUP
+authors: [ Wihy ]
+description: Hide all plugins on your server!
